@@ -1,1 +1,1 @@
-I sometimes to some coding 
+I sometimes do some coding 
