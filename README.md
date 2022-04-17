@@ -3,6 +3,6 @@ I sometimes do some coding
 - Intelij Idea Community : 
   Java development
 - sublime text : 
-  generell editing
+  general editing
 - vim : 
   command line editing   
