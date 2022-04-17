@@ -1,8 +1,8 @@
 I sometimes do some coding 
 # Software I use for Devlopment 
-- Intelij Idea Community 
+- Intelij Idea Community : 
   Java development
-- sublime text 
+- sublime text : 
   generell editing
-- vim
+- vim : 
   command line editing   
