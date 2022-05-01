@@ -1,8 +1,11 @@
-I sometimes do some coding 
-# Software I use for Devlopment 
-- Intelij Idea Community : 
-  Java development
-- sublime text : 
-  general editing
-- vim : 
-  command line editing   
+[spezialk-dev~Github] $ neofetch
+
+  ______       spezialk-dev@Github
+ /      \      -------------------
+|  ▓▓▓▓▓▓\     Theme: Dark default
+| ▓▓ __\▓▓     IDE : vim, vscode, sublime Text, Intelij Idea
+| ▓▓|    \     languages : Java, python
+| ▓▓ \▓▓▓▓     
+| ▓▓__| ▓▓     
+ \▓▓    ▓▓     
+  \▓▓▓▓▓▓  
