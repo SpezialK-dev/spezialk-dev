@@ -5,7 +5,7 @@
   .,-:::::/       spezialk-dev@Github
 ,;;-'````'        -------------------
 [[[   [[[[[[/     Theme: Dark default 
-"$$c.    "$$      IDE : vim, vscode, sublime Text, Intelij Idea 
+"$$c.    "$$      IDE : vim, pulsar, Intelij Idea 
  `Y8bo,,,o88o     languages : Java, python, haskall
    `'YMUP"YMM
 </pre>
