@@ -2,12 +2,12 @@
 _____________________________________________________________
 |G|              GIT - TERM                             |^|X|
 |-----------------------------------------------------------|
-|  [spezialk-dev~Github] $ neofetch                         |
+|  [spezialk-dev~Github] $ hyfetch                          |
 |                                                           |
 |    .,-:::::/       spezialk-dev@Github                    |
 |  ,;;-'````'        -------------------                    |
 |  [[[   [[[[[[/     Theme: Dark default                    |
-|  "$$c.    "$$      IDE : (n)vim, VsCode, Intelij Idea     |
+|  "$$c.    "$$      IDE : emacs, (nvim)                    |
 |   `Y8bo,,,o88o     languages : Java, python, haskall, c++ |
 |     `'YMUP"YMM                                            |
 |___________________________________________________________|
