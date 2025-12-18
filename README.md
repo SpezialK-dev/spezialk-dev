@@ -18,3 +18,8 @@ _______________________________________________________________
 - Compilers
 - Hardware
 - Low Level Things
+
+# Some other Sites 
+
+
+![My Try Hack me Account](https://tryhackme-badges.s3.amazonaws.com/spezialkdev.png)
