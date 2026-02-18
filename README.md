@@ -7,7 +7,7 @@ _______________________________________________________________
 |    .,-:::::/       spezialk-dev@Arch                        |
 |  ,;;-'````'        -------------------                      |
 |  [[[   [[[[[[/     Theme: Dark default                      |
-|  "$$c.    "$$      IDE : emacs, vim                         |
+|  "$$c.    "$$      IDE : emacs, vim, zed                    |
 |   `Y8bo,,,o88o     languages : Java, python, C/C++,         |
 |     `'YMUP"YMM                LaTex, Typst, R, haskall      |
 |_____________________________________________________________|
@@ -17,9 +17,9 @@ Check out my [Knowledge base](https://github.com/SpezialK-dev/knowledge-base) fo
 
 # Things I am interested in
 
-- Compilers
-- Hardware
-- Low Level Things
+- compilers
+- Hardware design/ and low level coding
+
 
 # Some other Sites 
 
