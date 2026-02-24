@@ -19,6 +19,7 @@ Check out my [Knowledge base](https://github.com/SpezialK-dev/knowledge-base) fo
 
 - compilers
 - Hardware design/ and low level coding
+- Operating Systems
 
 
 # Some other Sites 
