@@ -13,7 +13,7 @@ _______________________________________________________________
 |_____________________________________________________________|
 </pre>
 
-Check out my [Knowledge base](https://github.com/SpezialK-dev/knowledge-base) for Info dumps on sometimes nische topics
+Check out my [Knowledge base](https://github.com/SpezialK-dev/knowledge-base) or my [blog](https://spezialk-dev.github.io/) for Info dumps on sometimes nische topics.
 
 # Things I am interested in
 
