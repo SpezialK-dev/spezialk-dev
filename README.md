@@ -25,4 +25,4 @@ Check out my [Knowledge base](https://github.com/SpezialK-dev/knowledge-base) or
 # Some other Sites 
 
 
-![My Try Hack me Account](https://tryhackme-badges.s3.amazonaws.com/spezialkdev.png)
+<script src="https://tryhackme.com/badge/t/2c2a022d8536ec0e432adcc03b92bbe4037f572f7103076348a9f5454532207430d1b8944e1f8bc6940b46ed07233689?theme=dark"></script>
